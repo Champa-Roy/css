@@ -88,13 +88,17 @@ li{
     background-image: url("https://klbtheme.com/bacola/wp-content/uploads/2021/05/bacola-banner-07.jpg") ;
     padding: 20px;
     border-radius: 8px;
+    flex: 1;
 }
 .product-banner-name{
- font-size: 30pxpx;   
+ font-size: 38px;   
  color:grey ;
+ margin-bottom: 0px;
 }
 .product-banner-title{
     color: grey;
+    margin-top: 10px;
+
 }
 .product-banner-button{
     background-color:#ed174a ;
@@ -103,4 +107,36 @@ li{
     border: none;
     border-radius: 20px;
 
+}
+
+
+.product-banner2{
+    background-image:url("https://klbtheme.com/bacola/wp-content/uploads/2021/05/bacola-banner-08.jpg") ;
+    padding: 20px;
+    border-radius: 15px;
+    flex: 1;
+    
+}
+.product-banner2-name{
+    font-size: 38px;
+    color: grey;
+    margin-bottom: 0px;
+
+}
+.product-banner2-title{
+    color: grey;
+    margin-top: 10px;
+}
+.product-banner2-button{
+    background-color:#ed174a ;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
+.products-banner{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    margin-bottom: 30px;
 }
