@@ -1,0 +1,85 @@
+body{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.header{
+   height: 300px;
+   background-image: url('/image/Screenshot\ 2025-12-18\ 003606.png'); 
+}
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 40px;
+    border:10px  solid tomato;
+    box-shadow: 10px 10px 20px blueviolet
+}
+.second{
+      /* display: none; */
+     /* visibility: hidden; */
+}
+.incident{
+    border: 2px solid purple;
+   margin: 20px;
+   padding: 20px; 
+  display: inline-block;
+}
+li{
+    display: inline;
+}
+.dolor{
+    border: 2px solid peru;
+    height: 60px;
+}
+
+.exclusive-card{
+    background-image: url('https://klbtheme.com/bacola/wp-content/uploads/2021/05/slider-image-3.jpg');
+    padding: 80px;
+    background-position: center;
+    border-radius: 8px;
+}
+
+.exclusive-offer{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: gray;
+}
+
+.exclusive-off{
+    color: #13954e;
+    background-color: #cde7db;
+    width: fit-content;
+    padding: 6px 12px;
+    border-radius: 30px;
+}
+
+.exclusive-offer-off{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 0;
+}
+
+.exclusive-card-title{
+    font-size: 24px;
+    margin-top: 1px;
+}
+
+.exclusive-price{
+    color: #ed174a;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.exclusive-button{
+    background-color: #2bbef9;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
