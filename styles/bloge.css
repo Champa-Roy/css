@@ -83,3 +83,24 @@ li{
     font-size: 16px;
     font-weight: 500;
 }
+
+.product-banner{
+    background-image: url("https://klbtheme.com/bacola/wp-content/uploads/2021/05/bacola-banner-07.jpg") ;
+    padding: 20px;
+    border-radius: 8px;
+}
+.product-banner-name{
+ font-size: 30pxpx;   
+ color:grey ;
+}
+.product-banner-title{
+    color: grey;
+}
+.product-banner-button{
+    background-color:#ed174a ;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+
+}
